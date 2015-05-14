@@ -1,2 +1,10 @@
 C:\Users\Trevor\Documents\GitHub\SuperCalc\SuperCalc\bin\Debug\SuperCalc.exe.config
 C:\Users\Trevor\Documents\GitHub\SuperCalc\bin\Debug\SuperCalc.exe.config
+C:\Users\Trevor\Documents\GitHub\SuperCalc\bin\Debug\SuperCalc.exe
+C:\Users\Trevor\Documents\GitHub\SuperCalc\bin\Debug\SuperCalc.pdb
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.Form1.resources
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.Properties.Resources.resources
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.csproj.GenerateResource.Cache
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.exe
+C:\Users\Trevor\Documents\GitHub\SuperCalc\obj\Debug\SuperCalc.pdb
