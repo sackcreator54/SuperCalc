@@ -1,0 +1,2 @@
+C:\Users\Trevor\Documents\GitHub\SuperCalc\SuperCalc\bin\Debug\SuperCalc.exe.config
+C:\Users\Trevor\Documents\GitHub\SuperCalc\bin\Debug\SuperCalc.exe.config
